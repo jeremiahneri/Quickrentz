@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    /* padding-top: 150px; */
+    padding: 50px;
+    background-image: url(img/photo-1585503418537-88331351ad99.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    /* color: white !important;  */
+}
+
+.form-signup, .loginform{
+    background-color: rgba(20, 20, 20, 0.9);
+    color: #fff;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 15px;
+     
+}
+
+a{
+    text-decoration: none;
+}

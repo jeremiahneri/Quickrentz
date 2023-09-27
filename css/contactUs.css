@@ -1,0 +1,26 @@
+body {
+    background-image: url('../img/photo-1585503418537-88331351ad99.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col-md-6 {
+    color: white !important;
+    background-color: rgba(15, 15, 15, 0.8);
+    border-radius: 5px;
+    max-width: 500px; 
+    width: 100%; 
+    padding: 20px;
+    margin-left: 30%;
+ 
+}
+
+.form-group {
+    margin-bottom: 20px; 
+}
